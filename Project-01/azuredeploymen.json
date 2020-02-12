@@ -5,7 +5,7 @@
     "variables": {},
     "resources": [
         {
-            "name": "victor-pinto1197",
+            "name": "victorpinto1197",
             "type": "Microsoft.Storage/storageAccounts",
             "apiVersion": "2015-06-15",
             "location": "[resourceGroup().location]",
